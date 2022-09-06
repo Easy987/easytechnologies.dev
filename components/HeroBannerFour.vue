@@ -5,13 +5,8 @@
 				<div class="row align-items-center">
 					<div class="col-md-7 order-2 order-md-1">
 						<div class="slider-content slider-content__style-4">
-							<h2 class="slider-title">AWESOME LANDING PAGE MADE EASY.</h2>
+							<h2 class="slider-title">SOFTWARE DEVELOPMENT MADE EASY</h2>
 							<p class="slider-desc">An awesome Vue template for App landing and App Store site</p>
-							<div class="slider-btn">
-								<a class="read-more round-gradient active" href="#"><i class="fa fa-android"></i> Google
-									Play</a>
-								<a class="read-more round-gradient" href="#"><i class="fa fa-apple"></i> Apple Store</a>
-							</div>
 						</div>
 					</div>
 					<div class="col-md-5 order-1 order-md-2">

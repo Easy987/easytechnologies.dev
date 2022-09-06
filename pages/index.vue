@@ -4,7 +4,7 @@
 		<Navbar NavbarStyle2="header-style-3"/>
 
 		<!-- slider section -->
-		<HeroBannerFour/>
+		<HeroBannerThree/>
 
 		<!-- about section -->
 		<About/>
@@ -41,7 +41,7 @@
 
 <script>
 import Navbar from '../components/Navbar'
-import HeroBannerFour from '../components/HeroBannerFour'
+import HeroBannerThree from '../components/HeroBannerThree'
 import About from '../components/About'
 import Bestapp from '../components/Bestapp'
 import Features from '../components/Features'
@@ -57,7 +57,7 @@ export default {
 	name: 'app',
 	components: {
 		Navbar,
-		HeroBannerFour,
+		HeroBannerThree,
 		About,
 		Bestapp,
 		Features,

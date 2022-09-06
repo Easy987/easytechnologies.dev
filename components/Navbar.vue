@@ -18,10 +18,10 @@
 						<ul class="main-menu">
 							<li><a class="activee" href="#home" @click="close_menu()">Home</a></li>
 							<li><a href="#about" @click="close_menu()">About</a></li>
-							<li><a href="#feature" @click="close_menu()">Features</a></li>
+							<li><a href="#feature" @click="close_menu()"></a></li>
 							<li><a href="#review" @click="close_menu()">Review</a></li>
 							<li><a href="#screenshot" @click="close_menu()">Screenshot</a></li>
-							<li><a href="#support" @click="close_menu()">Support</a></li>
+							<li><a href="#contact" @click="close_menu()">Contact</a></li>
 						</ul>
 					</div>
 				</div>

@@ -23,11 +23,6 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 order-2 order-md-1">
-						<div class="copyright">
-							<p>&copy; 2021 <b class="text-white">Fantasic</b> Made with <i
-								class="fa fa-heart text-danger"></i> by <a
-								href="https://hasthemes.com/"><b>HasThemes</b></a></p>
-						</div>
 					</div>
 					<div class="col-md-6 order-1 order-md-2">
 						<div class="useful-link">

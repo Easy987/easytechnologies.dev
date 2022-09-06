@@ -5,12 +5,8 @@
 				<div class="row align-items-center">
 					<div class="col-lg-6 col-md-6 order-2 order-md-1">
 						<div class="slider-content slider-content__style-3">
-							<h2 class="slider-title">AWESOME MOBILE APP</h2>
-							<p class="slider-desc">An awesome Vue template for App landing and App Store site</p>
-							<div class="slider-btn">
-								<a class="read-more active" href="#"><i class="fa fa-apple"></i> Apple Store</a>
-								<a class="read-more" href="#"><i class="fa fa-android"></i> Google Play</a>
-							</div>
+							<h2 class="slider-title">SOFTWARE DEVELOPMENT MADE EASY</h2>
+							<p class="slider-desc">We make what you've dreamed of.</p>
 						</div>
 					</div>
 					<div class="col-lg-6 col-md-6 order-1 order-md-2">

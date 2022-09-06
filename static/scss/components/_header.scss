@@ -1,4 +1,9 @@
 /*------- Header area start -------*/
+
+.brand-logo a img {
+	height: 50px;
+}
+
 .header-main {
 	display: flex;
 	z-index: 9;
@@ -227,7 +232,7 @@
 		}
 
 		&.navbar-style-3 {
-			background-color: #252525;
+			background-color: #262626;
 		}
 	}
 }
